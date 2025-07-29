@@ -68,3 +68,8 @@ After preprocessing, use the embeddings to recommend movies by comparing vector 
 ## License
 
 This project is licensed under the MIT License.
+
+
+
+<img width="3028" height="1838" alt="Screenshot 2025-07-29 101140" src="https://github.com/user-attachments/assets/0332bbea-ebe9-4142-8b40-67871afdc642" />
+
