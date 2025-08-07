@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 import time
 
-API_KEY = "c99c625aaef8c5d066829107c597d801"
+API_KEY = "api key here"
 BASE_URL = "https://api.themoviedb.org/3"
 
 def get_additional_movie_info(title):
